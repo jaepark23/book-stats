@@ -1,2 +1,3 @@
 # book-stats
-*test*
+* Uses Google Books API to return book information
+
